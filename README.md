@@ -1,4 +1,5 @@
 Finger Counting Project
+
 Overview
 The Finger Counting Project uses computer vision techniques to detect and count the number of fingers shown to the camera. This project is useful for developing hand gesture-based interfaces and enhancing interaction with various applications.
 
